@@ -1,4 +1,4 @@
-# 🌦️ Estação Meteorológica CYD — PU4SYI
+# 🌦️ Estação Meteorológica CYD — 
 
 Estação meteorológica baseada em **ESP32 CYD** (Cheap Yellow Display) que combina dados meteorológicos online da API **OpenWeather** com leituras locais de um sensor **BME280**, exibindo tudo num display TFT colorido de 2.8".
 
@@ -173,11 +173,9 @@ Se o upload falhar com `Failed to connect`, mantenha o botão **BOOT** pressiona
 
 ## 📡 Sobre
 
-Projeto desenvolvido por **PU4SYI** como parte de experimentos com ESP32, IoT e radioamadorismo.
+Projeto desenvolvido por ALLEN ARRUDA como parte de experimentos com ESP32 e IoT.
 
-73! 📻
 
----
 
 ## 📄 Licença
 
