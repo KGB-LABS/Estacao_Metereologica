@@ -2,7 +2,7 @@
 
 Estação meteorológica baseada em **ESP32 CYD** (Cheap Yellow Display) que combina dados meteorológicos online da API **OpenWeather** com leituras locais de um sensor **BME280**, exibindo tudo num display TFT colorido de 2.8".
 
-Desenvolvida por **PU4SYI**.
+
 
 ---
 
